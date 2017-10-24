@@ -1,4 +1,4 @@
-function scuberGreetingForFeet (feet) {
+let scuberGreetingForFeet (feet) {
   if (feet <= 400) {
     return 'This one is on me!';
   } else if (1999 < feet && feet < 2500) {
