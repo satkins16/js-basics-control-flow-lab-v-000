@@ -1,3 +1,4 @@
-let scuberGreetingForFeet()
+let scuberGreetingForFeet(feet)
 
-let feet
+
+if feet =< 400
